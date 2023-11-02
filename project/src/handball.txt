@@ -1,0 +1,4 @@
+H    Goztepe    1    1    0    0    31    17    2
+H    Guneysu    2    1    0    1    42    39    2
+H    IzmirBB    2    1    0    1    38    50    2
+H    Nilufer Bld.    1    0    0    1    18    23    0
